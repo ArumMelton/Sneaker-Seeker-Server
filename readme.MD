@@ -11,7 +11,9 @@ JavaScript
 JSON
 React
 Node
+Express
 Logs
+Axios
 MongoDB
 Heroku
 RestAPI
