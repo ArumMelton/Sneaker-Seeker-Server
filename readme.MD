@@ -1,4 +1,6 @@
-## Sneaker Seeker
+[![Contributors][contributors-shield]][contributors-url][![Issues][issues-shield]][issues-url][![License][license-shield]](./LICENSE.txt)
+
+## Sneaker Seeker 
 
 ## Overview 
 In this project, we will integrate React as the View layer into a full-stack web application using the MVC paradigm and deploy it to Heroku. The stack we will work with is known as MERN, short for MongoDB Express React and Node. This project complies a vast amount of technologies used. We give our user interfaces of all users the access to a sneaker API database that has been linked to MongoDB. There launched to heroku forming our finished and completed website. Our website gives users the ability to sign up for an account, sign in, sign out, click on shoes, read the description of each specific shoes, comment on a specific shoe and comment on the website page as a whole. This gives users who are shoe lovers aka "sneaker heads" a community of sneaker advocates sharing their interest and knowledge about sneakers.
@@ -158,3 +160,17 @@ Veronica Person: https://github.com/veronicaperson
 ## Screenshots
 
 
+![Screenshot 2022-09-20 203144](https://user-images.githubusercontent.com/103224098/191876461-5bdc0047-989e-4930-adc8-8288e11dfab7.png)
+![Screenshot 2022-09-20 203227](https://user-images.githubusercontent.com/103224098/191876462-f8d77e4a-e6eb-4e4e-9625-8ddacd8a8137.png)
+![Screenshot 2022-09-20 203354](https://user-images.githubusercontent.com/103224098/191876463-79d7593b-2dbd-4198-88bf-1e83ea3ca4b9.png)
+
+
+
+
+
+
+[contributors-shield]: https://img.shields.io/badge/SneakerSeekers%20Contributors-brightgreen
+[contributors-url]: https://github.com/thomaswoods25/Module-24.-Interactive-MERN-SPA-Project/graphs/contributors
+[issues-shield]: https://img.shields.io/badge/SneakerSeekers%20Issues-red
+[issues-url]: https://github.com/thomaswoods25/Module-24.-Interactive-MERN-SPA-Project/issues
+[license-shield]: https://img.shields.io/badge/license-ISC-green
